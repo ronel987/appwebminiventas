@@ -1,0 +1,14 @@
+C:\Users\Adrián\source\repos\ProyectoAPI\ProyectoAPI\bin\Debug\netcoreapp2.1\ProyectoAPI.deps.json
+C:\Users\Adrián\source\repos\ProyectoAPI\ProyectoAPI\bin\Debug\netcoreapp2.1\ProyectoAPI.runtimeconfig.json
+C:\Users\Adrián\source\repos\ProyectoAPI\ProyectoAPI\bin\Debug\netcoreapp2.1\ProyectoAPI.runtimeconfig.dev.json
+C:\Users\Adrián\source\repos\ProyectoAPI\ProyectoAPI\bin\Debug\netcoreapp2.1\ProyectoAPI.dll
+C:\Users\Adrián\source\repos\ProyectoAPI\ProyectoAPI\bin\Debug\netcoreapp2.1\ProyectoAPI.pdb
+C:\Users\Adrián\source\repos\ProyectoAPI\ProyectoAPI\obj\Debug\netcoreapp2.1\ProyectoAPI.csprojAssemblyReference.cache
+C:\Users\Adrián\source\repos\ProyectoAPI\ProyectoAPI\obj\Debug\netcoreapp2.1\ProyectoAPI.csproj.CoreCompileInputs.cache
+C:\Users\Adrián\source\repos\ProyectoAPI\ProyectoAPI\obj\Debug\netcoreapp2.1\ProyectoAPI.RazorAssemblyInfo.cache
+C:\Users\Adrián\source\repos\ProyectoAPI\ProyectoAPI\obj\Debug\netcoreapp2.1\ProyectoAPI.RazorAssemblyInfo.cs
+C:\Users\Adrián\source\repos\ProyectoAPI\ProyectoAPI\obj\Debug\netcoreapp2.1\ProyectoAPI.AssemblyInfoInputs.cache
+C:\Users\Adrián\source\repos\ProyectoAPI\ProyectoAPI\obj\Debug\netcoreapp2.1\ProyectoAPI.AssemblyInfo.cs
+C:\Users\Adrián\source\repos\ProyectoAPI\ProyectoAPI\obj\Debug\netcoreapp2.1\ProyectoAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Adrián\source\repos\ProyectoAPI\ProyectoAPI\obj\Debug\netcoreapp2.1\ProyectoAPI.dll
+C:\Users\Adrián\source\repos\ProyectoAPI\ProyectoAPI\obj\Debug\netcoreapp2.1\ProyectoAPI.pdb
